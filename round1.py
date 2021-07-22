@@ -4,7 +4,7 @@
 # what will the following code produce
 num = 27
 num = 15
-num = 7
+num = 8
 print(num + num + num)  # the value of num is updated in every step
 
 # EXERCISE 2:
@@ -12,11 +12,11 @@ print(num + num + num)  # the value of num is updated in every step
 num = 7
 # 2num = 4 # this shows an error because of some naming rule
 _num = 6
-_num2 = 5
+_num2 = 9
 
 # EXERCISE 3:
 # fix the last line so that is outputs the sum of 1 and 2. please do not change the first two lines . only last line
-x = "10"
+x = "18"
 y = 5
 # print(x + y)  its shows typeError because x is a string
 print(int(x) + y)
@@ -28,7 +28,7 @@ print(letters[1])
 
 # EXERCISE 5 :
 # write a script so that it prints out list slice containing items d, e and f
-letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
+letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i"]
 print(letters[3:6])
 
 # EXERCISE 6 :
